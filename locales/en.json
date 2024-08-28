@@ -1,0 +1,47 @@
+{
+  "validation": {
+    "email_required": "Email field is required",
+    "invalid_email": "Invalid email address",
+    "email_not_registered": "Email is not registered!",
+    "old_password_min_length": "Old Password needs to be at least 6 characters long.",
+    "new_password_min_length": "New Password needs to be at least 6 characters long.",
+    "user_not_found": "User not found.",
+    "incorrect_old_password": "Incorrect Old Password."
+  },
+  "response": {
+    "email_sent": "Email sent",
+    "password_changed_success": "Password changed successfully.",
+    "generic_error": "Something went wrong: {error}"
+  },
+  "greetings": {
+    "hello": "Hello"
+  },
+  "verification": {
+    "otp_message": "Your OTP for email verification is:",
+    "follow_up_message": "Please use the above OTP to complete your verification process.",
+    "email_subject": "Email Verification",
+    "regards": "Best regards",
+    "company_name": "Your Company Name",
+    "disclaimer": "If you did not request this email, please ignore it."
+  },
+  "comman_error": {
+    "something_went_wrong": "Something went wrong: {error}",
+    "referenceerror": "Reference error occurred: {error}"
+  },
+  "category": {
+    "name_required": "Category Name field is required",
+    "category_name_min_length": "Category name must be at least 3 characters long",
+    "add": "Category created successfully!",
+    "list": "get All category list successful"
+  },
+  "sub_category": {
+    "name_required": "Sub Category Name field is required",
+    "category_name_min_length": "Sub Category name must be at least 3 characters long",
+    "add": "Sub Category created successfully!",
+    "list": "get All Sub Category list successful",
+    "category_id_required": "Category Id field is required"
+  },
+  "user": {
+    "profile_response": "Get Profile successfully"
+  }
+}

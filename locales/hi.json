@@ -1,0 +1,22 @@
+{
+    "validation": {
+        "email_required": "ईमेल फ़ील्ड आवश्यक है",
+        "invalid_email": "अवैध ईमेल पता",
+        "email_not_registered": "ईमेल पंजीकृत नहीं है!"
+    },
+    "response": {
+        "email_sent": "ईमेल भेजा गया",
+        "generic_error": "कुछ गलत हो गया: {error}"
+    },
+    "greetings": {
+        "hello": "नमस्ते"
+    },
+    "verification": {
+        "otp_message": "आपका ईमेल सत्यापन OTP है:",
+        "follow_up_message": "कृपया अपने सत्यापन प्रक्रिया को पूरा करने के लिए ऊपर दिए गए OTP का उपयोग करें।",
+        "email_subject": "ईमेल सत्यापन",
+        "regards": "सादर",
+        "company_name": "आपकी कंपनी का नाम",
+        "disclaimer": "यदि आपने इस ईमेल का अनुरोध नहीं किया है, तो कृपया इसे अनदेखा करें।"
+    }
+}
